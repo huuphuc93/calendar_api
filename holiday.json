@@ -1,112 +1,112 @@
-[
-  {
+{
+  "2023-01-01": {
     "name": "Tết Dương lịch",
     "date": "2023-01-01",
     "isHoliday": true
   },
-  {
+  "2023-01-02": {
     "name": "Tết Dương lịch",
     "date": "2023-01-02",
     "isHoliday": true
   },
-  {
+  "2023-01-20": {
     "name": "Tết Nguyên Đán",
     "date": "2023-01-20",
     "isHoliday": true
   },
-  {
+  "2023-01-21": {
     "name": "Tết Nguyên Đán",
     "date": "2023-01-21",
     "isHoliday": true
   },
-  {
+  "2023-01-22": {
     "name": "Tết Nguyên Đán",
     "date": "2023-01-22",
     "isHoliday": true
   },
-  {
+  "2023-01-23": {
     "name": "Tết Nguyên Đán",
     "date": "2023-01-23",
     "isHoliday": true
   },
-  {
+  "2023-01-24": {
     "name": "Tết Nguyên Đán",
     "date": "2023-01-24",
     "isHoliday": true
   },
-  {
+  "2023-01-25": {
     "name": "Tết Nguyên Đán",
     "date": "2023-01-25",
     "isHoliday": true
   },
-  {
+  "2023-01-26": {
     "name": "Tết Nguyên Đán",
     "date": "2023-01-26",
     "isHoliday": true
   },
-  {
+  "2023-02-05": {
     "name": "Tết Nguyên Tiêu",
     "date": "2023-02-05",
     "isHoliday": true
   },
-  {
+  "2023-04-29": {
     "name": "Giỗ Tổ Hùng Vương",
     "date": "2023-04-29",
     "isHoliday": true
   },
-  {
+  "2023-04-30": {
     "name": "Ngày Giải phóng miền Nam và thống nhất đất nước",
     "date": "2023-04-30",
     "isHoliday": true
   },
-  {
+  "2023-05-01": {
     "name": "Ngày Quốc tế lao động",
     "date": "2023-05-01",
     "isHoliday": true
   },
-  {
+  "2023-05-02": {
     "name": "Nghỉ bù giỗ Tổ Hùng Vương",
     "date": "2023-05-02",
     "isHoliday": true
   },
-  {
+  "2023-05-03": {
     "name": "Nghỉ bù ngày Giải phóng miền Nam và thống nhất đất nước",
     "date": "2023-05-03",
     "isHoliday": true
   },
-  {
+  "2023-06-05": {
     "name": "Ngày Bác Hồ ra đi tìm đường cứu nước",
     "date": "2023-06-05",
     "isHoliday": true
   },
-  {
+  "2023-09-01": {
     "name": "Ngày Quốc khánh",
     "date": "2023-09-01",
     "isHoliday": true
   },
-  {
+  "2023-09-02": {
     "name": "Ngày Quốc khánh",
     "date": "2023-09-02",
     "isHoliday": true
   },
-  {
+  "2023-09-04": {
     "name": "Nghỉ bù ngày Quốc khánh",
     "date": "2023-09-04",
     "isHoliday": true
   },
-  {
+  "2023-10-20": {
     "name": "Ngày Phụ nữ Việt Nam",
     "date": "2023-10-20",
     "isHoliday": false
   },
-  {
+  "2023-11-20": {
     "name": "Ngày Nhà giáo Việt Nam",
     "date": "2023-11-20",
     "isHoliday": false
   },
-  {
+  "2023-12-25": {
     "name": "Giáng sinh",
     "date": "2023-12-25",
     "isHoliday": true
   }
-]
+}
